@@ -10,5 +10,5 @@ url = 'https://www.skyscanner.com.tr/transport/flights/ista/dps/241019/?adultsv2
 
 driver.get(url)
 
-
+this = vars
 
